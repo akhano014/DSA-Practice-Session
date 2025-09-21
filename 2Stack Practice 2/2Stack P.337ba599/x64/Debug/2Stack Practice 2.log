@@ -1,0 +1,3 @@
+﻿  2Stack.cpp
+C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\2Stack Practice 2\2Stack.cpp(42,41): error C2065: 'element': undeclared identifier
+C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\2Stack Practice 2\2Stack.cpp(42,41): error C3861: 'element': identifier not found
